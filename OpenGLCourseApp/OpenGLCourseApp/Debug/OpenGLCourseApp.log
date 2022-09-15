@@ -1,0 +1,5 @@
+﻿  main.cpp
+h:\projects\udemy - computer graphics with modern opengl and c++\openglcourseapp\openglcourseapp\window.h(32): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+h:\projects\udemy - computer graphics with modern opengl and c++\openglcourseapp\openglcourseapp\window.h(33): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+h:\projects\udemy - computer graphics with modern opengl and c++\openglcourseapp\openglcourseapp\main.cpp(368): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  OpenGLCourseApp.vcxproj -> H:\Projects\Udemy - Computer Graphics with Modern OpenGL and C++\OpenGLCourseApp\Debug\OpenGLCourseApp.exe

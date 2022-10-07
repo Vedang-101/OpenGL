@@ -7,7 +7,7 @@ This contains projects where openGL funtionalities are tested. These features in
 - Drawing 3D models
 - Using 3D maths to translate, rotate and scale models and use interpolation
 - Optimizations to used indexed Draws
-- Diffrent projection Mappings
+- Different projection Mappings
 - Texture Mapping
 - Lighting models
 - Directional, spot and point lighitng
